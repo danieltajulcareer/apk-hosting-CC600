@@ -1,0 +1,4 @@
+WS URL: http://[backoffice IP]:8081/cart/
+PARAMS: {"storeId": “[store ID]", "posNo": "4", "regionNo": "300", "groupNo": "10", "traceId": "128b8812927611eea142c8d9d2ba7366",
+"qrcode": "4713037129359", "isAnfieldMember": 0, "language": "zh_HK", "subLanguage": "zh_HK", "version": "2", "posVersion": 1, "appVersion":
+"1.2.7.16", "wareInputList": [{"wareCode": “#BARCODE#"}]} 
